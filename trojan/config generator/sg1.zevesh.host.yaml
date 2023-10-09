@@ -1,0 +1,352 @@
+proxies:
+- name: TRojan-104-16-51-111
+  server: 104.16.51.111
+  port: 443
+  type: trojan
+  password: 17c925cf-30fe-47dc-bf62-d0bc22ad8315
+  network: ws
+  sni: sg1.zevesh.host
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /trojan-ws
+  headers:
+    Host: sg1.zevesh.host
+- name: TRojan-104-16-53-111
+  server: 104.16.53.111
+  port: 443
+  type: trojan
+  password: 17c925cf-30fe-47dc-bf62-d0bc22ad8315
+  network: ws
+  sni: sg1.zevesh.host
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /trojan-ws
+  headers:
+    Host: sg1.zevesh.host
+- name: TRojan-104-16-65-85
+  server: 104.16.65.85
+  port: 443
+  type: trojan
+  password: 17c925cf-30fe-47dc-bf62-d0bc22ad8315
+  network: ws
+  sni: sg1.zevesh.host
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /trojan-ws
+  headers:
+    Host: sg1.zevesh.host
+- name: TRojan-104-16-66-85
+  server: 104.16.66.85
+  port: 443
+  type: trojan
+  password: 17c925cf-30fe-47dc-bf62-d0bc22ad8315
+  network: ws
+  sni: sg1.zevesh.host
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /trojan-ws
+  headers:
+    Host: sg1.zevesh.host
+- name: TRojan-104-16-85-20
+  server: 104.16.85.20
+  port: 443
+  type: trojan
+  password: 17c925cf-30fe-47dc-bf62-d0bc22ad8315
+  network: ws
+  sni: sg1.zevesh.host
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /trojan-ws
+  headers:
+    Host: sg1.zevesh.host
+- name: TRojan-104-16-86-20
+  server: 104.16.86.20
+  port: 443
+  type: trojan
+  password: 17c925cf-30fe-47dc-bf62-d0bc22ad8315
+  network: ws
+  sni: sg1.zevesh.host
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /trojan-ws
+  headers:
+    Host: sg1.zevesh.host
+- name: TRojan-104-16-87-20
+  server: 104.16.87.20
+  port: 443
+  type: trojan
+  password: 17c925cf-30fe-47dc-bf62-d0bc22ad8315
+  network: ws
+  sni: sg1.zevesh.host
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /trojan-ws
+  headers:
+    Host: sg1.zevesh.host
+- name: TRojan-104-16-88-20
+  server: 104.16.88.20
+  port: 443
+  type: trojan
+  password: 17c925cf-30fe-47dc-bf62-d0bc22ad8315
+  network: ws
+  sni: sg1.zevesh.host
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /trojan-ws
+  headers:
+    Host: sg1.zevesh.host
+- name: TRojan-104-16-89-20
+  server: 104.16.89.20
+  port: 443
+  type: trojan
+  password: 17c925cf-30fe-47dc-bf62-d0bc22ad8315
+  network: ws
+  sni: sg1.zevesh.host
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /trojan-ws
+  headers:
+    Host: sg1.zevesh.host
+- name: TRojan-104-16-182-114
+  server: 104.16.182.114
+  port: 443
+  type: trojan
+  password: 17c925cf-30fe-47dc-bf62-d0bc22ad8315
+  network: ws
+  sni: sg1.zevesh.host
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /trojan-ws
+  headers:
+    Host: sg1.zevesh.host
+- name: TRojan-104-16-226-91
+  server: 104.16.226.91
+  port: 443
+  type: trojan
+  password: 17c925cf-30fe-47dc-bf62-d0bc22ad8315
+  network: ws
+  sni: sg1.zevesh.host
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /trojan-ws
+  headers:
+    Host: sg1.zevesh.host
+- name: TRojan-104-18-2-2
+  server: 104.18.2.2
+  port: 443
+  type: trojan
+  password: 17c925cf-30fe-47dc-bf62-d0bc22ad8315
+  network: ws
+  sni: sg1.zevesh.host
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /trojan-ws
+  headers:
+    Host: sg1.zevesh.host
+- name: TRojan-104-18-3-2
+  server: 104.18.3.2
+  port: 443
+  type: trojan
+  password: 17c925cf-30fe-47dc-bf62-d0bc22ad8315
+  network: ws
+  sni: sg1.zevesh.host
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /trojan-ws
+  headers:
+    Host: sg1.zevesh.host
+- name: TRojan-104-18-24-139
+  server: 104.18.24.139
+  port: 443
+  type: trojan
+  password: 17c925cf-30fe-47dc-bf62-d0bc22ad8315
+  network: ws
+  sni: sg1.zevesh.host
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /trojan-ws
+  headers:
+    Host: sg1.zevesh.host
+- name: TRojan-104-18-25-139
+  server: 104.18.25.139
+  port: 443
+  type: trojan
+  password: 17c925cf-30fe-47dc-bf62-d0bc22ad8315
+  network: ws
+  sni: sg1.zevesh.host
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /trojan-ws
+  headers:
+    Host: sg1.zevesh.host
+- name: TRojan-104-18-53-42
+  server: 104.18.53.42
+  port: 443
+  type: trojan
+  password: 17c925cf-30fe-47dc-bf62-d0bc22ad8315
+  network: ws
+  sni: sg1.zevesh.host
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /trojan-ws
+  headers:
+    Host: sg1.zevesh.host
+- name: TRojan-104-18-106-64
+  server: 104.18.106.64
+  port: 443
+  type: trojan
+  password: 17c925cf-30fe-47dc-bf62-d0bc22ad8315
+  network: ws
+  sni: sg1.zevesh.host
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /trojan-ws
+  headers:
+    Host: sg1.zevesh.host
+- name: TRojan-104-18-107-64
+  server: 104.18.107.64
+  port: 443
+  type: trojan
+  password: 17c925cf-30fe-47dc-bf62-d0bc22ad8315
+  network: ws
+  sni: sg1.zevesh.host
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /trojan-ws
+  headers:
+    Host: sg1.zevesh.host
+- name: TRojan-104-18-160-90
+  server: 104.18.160.90
+  port: 443
+  type: trojan
+  password: 17c925cf-30fe-47dc-bf62-d0bc22ad8315
+  network: ws
+  sni: sg1.zevesh.host
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /trojan-ws
+  headers:
+    Host: sg1.zevesh.host
+- name: TRojan-104-19-141-56
+  server: 104.19.141.56
+  port: 443
+  type: trojan
+  password: 17c925cf-30fe-47dc-bf62-d0bc22ad8315
+  network: ws
+  sni: sg1.zevesh.host
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /trojan-ws
+  headers:
+    Host: sg1.zevesh.host
+- name: TRojan-104-19-142-56
+  server: 104.19.142.56
+  port: 443
+  type: trojan
+  password: 17c925cf-30fe-47dc-bf62-d0bc22ad8315
+  network: ws
+  sni: sg1.zevesh.host
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /trojan-ws
+  headers:
+    Host: sg1.zevesh.host
+- name: TRojan-104-19-240-26
+  server: 104.19.240.26
+  port: 443
+  type: trojan
+  password: 17c925cf-30fe-47dc-bf62-d0bc22ad8315
+  network: ws
+  sni: sg1.zevesh.host
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /trojan-ws
+  headers:
+    Host: sg1.zevesh.host
+- name: TRojan-104-19-241-26
+  server: 104.19.241.26
+  port: 443
+  type: trojan
+  password: 17c925cf-30fe-47dc-bf62-d0bc22ad8315
+  network: ws
+  sni: sg1.zevesh.host
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /trojan-ws
+  headers:
+    Host: sg1.zevesh.host
+- name: TRojan-104-21-8-121
+  server: 104.21.8.121
+  port: 443
+  type: trojan
+  password: 17c925cf-30fe-47dc-bf62-d0bc22ad8315
+  network: ws
+  sni: sg1.zevesh.host
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /trojan-ws
+  headers:
+    Host: sg1.zevesh.host
+- name: TRojan-172-67-139-111
+  server: 172.67.139.111
+  port: 443
+  type: trojan
+  password: 17c925cf-30fe-47dc-bf62-d0bc22ad8315
+  network: ws
+  sni: sg1.zevesh.host
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /trojan-ws
+  headers:
+    Host: sg1.zevesh.host
+- name: TRojan-162-159-128-7
+  server: 162.159.128.7
+  port: 443
+  type: trojan
+  password: 17c925cf-30fe-47dc-bf62-d0bc22ad8315
+  network: ws
+  sni: sg1.zevesh.host
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /trojan-ws
+  headers:
+    Host: sg1.zevesh.host
+- name: TRojan-162-159-138-6
+  server: 162.159.138.6
+  port: 443
+  type: trojan
+  password: 17c925cf-30fe-47dc-bf62-d0bc22ad8315
+  network: ws
+  sni: sg1.zevesh.host
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /trojan-ws
+  headers:
+    Host: sg1.zevesh.host
