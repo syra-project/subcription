@@ -1,0 +1,2 @@
+trojan://fea2ccdb-efc3-421e-825f-546f78e20049@104.22.5.240:443?path=%2Ftrojan-ws&security=tls&host=trojan-sg01.globalssh.xyz&type=ws&sni=trojan-sg01.globalssh.xyz#sgaaa-globalssh_trojan_ws
+trojan://fea2ccdb-efc3-421e-825f-546f78e20049@104.22.5.240:443?mode=gun&security=tls&authority=trojan-sg01.globalssh.xyz&type=grpc&serviceName=trojan-grpc&sni=trojan-sg01.globalssh.xyz#sgaaa-globalssh_trojan_ws
