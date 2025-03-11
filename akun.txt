@@ -1,1 +1,4 @@
 trojan://91f63078-1e17-494a-8226-7432f2a0d8ed@104.22.5.240:443?path=%2Ftrojan-ws&security=tls&host=sg2.servercepat.net&type=ws&sni=sg2.servercepat.net#nvzbsb8465
+
+
+trojan://bf6e0a4f-9bd2-4a6d-8a14-87498e970aec@104.22.5.240:443?path=%2Ftrojan-ws&security=tls&host=tro-us02.gproxy.gratis&type=ws&sni=tro-us02.gproxy.gratis#usbdbbd-globalssh_trojan_ws
