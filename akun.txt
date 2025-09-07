@@ -1,2 +1,2 @@
-trojan://81a6aae6-d8f9-421a-9dc3-e87adf649e53@sg6.servercepat.net:443?path=%2Ftrojan-ws&security=tls&host=sg6.servercepat.net&type=ws&sni=sg6.servercepat.net#trial334420250907143732
-trojan://81a6aae6-d8f9-421a-9dc3-e87adf649e53@sg6.servercepat.net:443?mode=gun&security=tls&type=grpc&serviceName=trojan-grpc&sni=sg6.servercepat.net#trial334420250907143732
+trojan://81a6aae6-d8f9-421a-9dc3-e87adf649e53@104.17.156.243:443?security=tls&sni=sg6.servercepat.net&allowInsecure=1&type=ws&host=sg6.servercepat.net&path=%2Ftrojan-ws#trial334420250907143732
+trojan://81a6aae6-d8f9-421a-9dc3-e87adf649e53@104.17.156.243:443?security=tls&sni=sg6.servercepat.net&allowInsecure=1&type=grpc&authority=&serviceName=trojan-grpc&mode=gun#trial334420250907143732
