@@ -1,2 +1,12 @@
-trojan://3ade2c70-c938-407f-91fa-f34df667895a@104.17.156.243:443?security=tls&sni=sg5.servercepat.net&allowInsecure=1&type=ws&host=sg5.servercepat.net&path=%2Ftrojan-ws#wildan19862585
-trojan://3ade2c70-c938-407f-91fa-f34df667895a@104.17.156.243:443?security=tls&sni=sg5.servercepat.net&allowInsecure=1&type=grpc&authority=&serviceName=trojan-grpc&mode=gun#wildan19862585
+trojan://a6a2068c-460c-45d6-9bab-857788cd1b57@ava.game.naver.com:443?security=tls&sni=ava.game.naver.com.sgdo-v1.kesatu.uno&allowInsecure=1&type=grpc&authority=ava.game.naver.com.sgdo-v1.kesatu.uno&serviceName=trojan&mode=gun#syahril-grpc-wc
+trojan://a6a2068c-460c-45d6-9bab-857788cd1b57@sgdo-v1.kesatu.uno:443?security=tls&sni=sgdo-v1.kesatu.uno&allowInsecure=1&type=grpc&authority=sgdo-v1.kesatu.uno&serviceName=trojan&mode=gun#syahril-trojan-ori
+trojan://a6a2068c-460c-45d6-9bab-857788cd1b57@104.17.156.243:443?security=tls&sni=sgdo-v1.kesatu.uno&allowInsecure=1&type=grpc&authority=sgdo-v1.kesatu.uno&serviceName=trojan&mode=gun#syahril-trojan-vidio
+trojan://a6a2068c-460c-45d6-9bab-857788cd1b57@sgdo-v1.kesatu.uno:443?security=tls&sni=sgdo-v1.kesatu.uno&allowInsecure=1&type=ws&host=sgdo-v1.kesatu.uno&path=%2Ftrojan#syahril-ws-ori
+trojan://a6a2068c-460c-45d6-9bab-857788cd1b57@104.17.156.243:443?security=tls&sni=sgdo-v1.kesatu.uno&allowInsecure=1&type=ws&host=sgdo-v1.kesatu.uno&path=%2Ftrojan#syahril-ws-vidio
+trojan://a6a2068c-460c-45d6-9bab-857788cd1b57@ava.game.naver.com:443?security=tls&sni=ava.game.naver.com.sgdo-v1.kesatu.uno&allowInsecure=1&type=ws&host=ava.game.naver.com.sgdo-v1.kesatu.uno&path=%2Ftrojan#syahril-ws-wc
+trojan://3ade2c70-c938-407f-91fa-f34df667895a@104.17.156.243:443?security=tls&sni=sg5.servercepat.net&allowInsecure=1&type=grpc&authority=&serviceName=trojan-grpc&mode=gun#wildan1-grpc-vidio
+trojan://3ade2c70-c938-407f-91fa-f34df667895a@ava.game.naver.com:443?security=tls&sni=ava.game.naver.com.sg5.servercepat.net&allowInsecure=1&type=grpc&authority=&serviceName=trojan-grpc&mode=gun#wildan1-grpc-wc
+trojan://3ade2c70-c938-407f-91fa-f34df667895a@104.17.156.243:443?security=tls&sni=sg5.servercepat.net&allowInsecure=1&type=ws&host=sg5.servercepat.net&path=%2Ftrojan-ws#wildan1-ws-vidio
+trojan://3ade2c70-c938-407f-91fa-f34df667895a@ava.game.naver.com:443?security=tls&sni=ava.game.naver.com.sg5.servercepat.net&allowInsecure=1&type=ws&host=ava.game.naver.com.sg5.servercepat.net&path=%2Ftrojan-ws#wildan1-ws-wc
+trojan://3ade2c70-c938-407f-91fa-f34df667895a@sg5.servercepat.net:443?security=tls&sni=sg5.servercepat.net&allowInsecure=1&type=ws&host=sg5.servercepat.net&path=%2Ftrojan-ws#wildan1-ws-ori
+trojan://3ade2c70-c938-407f-91fa-f34df667895a@sg5.servercepat.net:443?security=tls&sni=sg5.servercepat.net&allowInsecure=1&type=grpc&authority=&serviceName=trojan-grpc&mode=gun#wildan1-grpc-ori
