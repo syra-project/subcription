@@ -1,25 +1,145 @@
 proxies:
-  - name: syra1184
-    server: 104.22.5.240
+  - name: syahril-grpc-wc
+    server: ava.game.naver.com
     port: 443
     type: trojan
-    password: 0ca0b289-35ad-421b-bc71-d3f2e578da00
+    password: a6a2068c-460c-45d6-9bab-857788cd1b57
     skip-cert-verify: true
-    sni: sg3.servercepat.net
+    sni: ava.game.naver.com.sgdo-v1.kesatu.uno
+    network: grpc
+    grpc-opts:
+      grpc-service-name: trojan
+    udp: true
+  - name: syahril-trojan-ori
+    server: sgdo-v1.kesatu.uno
+    port: 443
+    type: trojan
+    password: a6a2068c-460c-45d6-9bab-857788cd1b57
+    skip-cert-verify: true
+    sni: sgdo-v1.kesatu.uno
+    network: grpc
+    grpc-opts:
+      grpc-service-name: trojan
+    udp: true
+  - name: syahril-trojan-vidio
+    server: 104.17.156.243
+    port: 443
+    type: trojan
+    password: a6a2068c-460c-45d6-9bab-857788cd1b57
+    skip-cert-verify: true
+    sni: sgdo-v1.kesatu.uno
+    network: grpc
+    grpc-opts:
+      grpc-service-name: trojan
+    udp: true
+  - name: syahril-ws-ori
+    server: sgdo-v1.kesatu.uno
+    port: 443
+    type: trojan
+    password: a6a2068c-460c-45d6-9bab-857788cd1b57
+    skip-cert-verify: true
+    sni: sgdo-v1.kesatu.uno
+    network: ws
+    ws-opts:
+      path: /trojan
+      headers:
+        Host: sgdo-v1.kesatu.uno
+    udp: true
+  - name: syahril-ws-vidio
+    server: 104.17.156.243
+    port: 443
+    type: trojan
+    password: a6a2068c-460c-45d6-9bab-857788cd1b57
+    skip-cert-verify: true
+    sni: sgdo-v1.kesatu.uno
+    network: ws
+    ws-opts:
+      path: /trojan
+      headers:
+        Host: sgdo-v1.kesatu.uno
+    udp: true
+  - name: syahril-ws-wc
+    server: ava.game.naver.com
+    port: 443
+    type: trojan
+    password: a6a2068c-460c-45d6-9bab-857788cd1b57
+    skip-cert-verify: true
+    sni: ava.game.naver.com.sgdo-v1.kesatu.uno
+    network: ws
+    ws-opts:
+      path: /trojan
+      headers:
+        Host: ava.game.naver.com.sgdo-v1.kesatu.uno
+    udp: true
+  - name: wildan1-grpc-vidio
+    server: 104.17.156.243
+    port: 443
+    type: trojan
+    password: 3ade2c70-c938-407f-91fa-f34df667895a
+    skip-cert-verify: true
+    sni: sg5.servercepat.net
     network: grpc
     grpc-opts:
       grpc-service-name: trojan-grpc
     udp: true
-  - name: syra1184 2
-    server: 104.22.5.240
+  - name: wildan1-grpc-wc
+    server: ava.game.naver.com
     port: 443
     type: trojan
-    password: 0ca0b289-35ad-421b-bc71-d3f2e578da00
+    password: 3ade2c70-c938-407f-91fa-f34df667895a
     skip-cert-verify: true
-    sni: sg3.servercepat.net
+    sni: ava.game.naver.com.sg5.servercepat.net
+    network: grpc
+    grpc-opts:
+      grpc-service-name: trojan-grpc
+    udp: true
+  - name: wildan1-ws-vidio
+    server: 104.17.156.243
+    port: 443
+    type: trojan
+    password: 3ade2c70-c938-407f-91fa-f34df667895a
+    skip-cert-verify: true
+    sni: sg5.servercepat.net
     network: ws
     ws-opts:
       path: /trojan-ws
       headers:
-        Host: sg3.servercepat.net
+        Host: sg5.servercepat.net
+    udp: true
+  - name: wildan1-ws-wc
+    server: ava.game.naver.com
+    port: 443
+    type: trojan
+    password: 3ade2c70-c938-407f-91fa-f34df667895a
+    skip-cert-verify: true
+    sni: ava.game.naver.com.sg5.servercepat.net
+    network: ws
+    ws-opts:
+      path: /trojan-ws
+      headers:
+        Host: ava.game.naver.com.sg5.servercepat.net
+    udp: true
+  - name: wildan1-ws-ori
+    server: sg5.servercepat.net
+    port: 443
+    type: trojan
+    password: 3ade2c70-c938-407f-91fa-f34df667895a
+    skip-cert-verify: true
+    sni: sg5.servercepat.net
+    network: ws
+    ws-opts:
+      path: /trojan-ws
+      headers:
+        Host: sg5.servercepat.net
+    udp: true
+  - name: wildan1-grpc-ori
+    server: sg5.servercepat.net
+    port: 443
+    type: trojan
+    password: 3ade2c70-c938-407f-91fa-f34df667895a
+    skip-cert-verify: true
+    sni: sg5.servercepat.net
+    network: grpc
+    grpc-opts:
+      grpc-service-name: trojan-grpc
     udp: true
